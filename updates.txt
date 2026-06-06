@@ -1,3 +1,6 @@
+||1.1 added:||
+-changed the version of java form 8 to 1 on the ci.class file
+
 ||1.0 added:||
 -music for menu
 -music grasswalk for 1-1 to 1-9
